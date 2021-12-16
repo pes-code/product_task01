@@ -1,0 +1,46 @@
+body{
+   
+}
+
+.lw_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.lw_text{
+    display: flex;
+    justify-content: center;
+}
+
+.lw_checkbox{
+display: flex;
+justify-content: center;
+flex-direction: column;
+}
+
+.lw_check{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.hope_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.hope_text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sign{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
